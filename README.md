@@ -1,2 +1,2 @@
 # project2
-Project 2 from SDS 322E (Elements of Data Science)
+(work in progress) Project 2 from SDS 322E (Elements of Data Science)
